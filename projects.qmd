@@ -1,0 +1,9 @@
+---
+title: "Projects"
+website:
+  navbar:
+    background: primary 
+    search: true
+---
+
+This is the projects section, I would put my labs and other projects here.

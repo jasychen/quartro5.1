@@ -1,11 +1,14 @@
 ---
-title: "quarto5"
+title: "Home"
+author: "Jason Y. Chen"
+website:
+  navbar:
+    background: primary 
+    search: true
 ---
 
-This is a Quarto website.
+My name is Jason Y. Chen, I am a Umass Amherst biology senior, set to graduate May of 2024. I am also a pharmacy technician and a lab assistant.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+![Jason](images/nyc.png)

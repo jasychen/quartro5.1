@@ -1,8 +1,11 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "caf2803c952433dad4e7df5d1f1ec9fd",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\nauthor: \"Jason Y. Chen\"\nwebsite:\n  navbar:\n    background: primary \n    search: true\n---\n\n\nThis is the about section, if there was more interesting things about me, it would be here.\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

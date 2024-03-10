@@ -1,9 +1,14 @@
 ---
 title: "About"
+author: "Jason Y. Chen"
+website:
+  navbar:
+    background: primary 
+    search: true
 ---
 
-About this site
+This is the about section, if there was more interesting things about me, it would be here.
 
 ```{r}
-1 + 1
 ```
+

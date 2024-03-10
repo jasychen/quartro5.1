@@ -1,0 +1,9 @@
+---
+title: "ExtraPage"
+website:
+  navbar:
+    background: primary 
+    search: true
+---
+
+This is an extra page for the lab, there's not much here. 

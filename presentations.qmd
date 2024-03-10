@@ -1,0 +1,9 @@
+---
+title: "Presentations"
+website:
+  navbar:
+    background: primary 
+    search: true
+---
+
+This is the presentations page, I would show this page to people once the project is finished.

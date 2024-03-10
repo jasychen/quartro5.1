@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto5",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Jason Y. Chen, I am a Umass Amherst biology senior, set to graduate May of 2024. I am also a pharmacy technician and a lab assistant.\n\n\n\nJason"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is the about section, if there was more interesting things about me, it would be here."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the projects section, I would put my labs and other projects here."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is the projects section, I would put my labs and other projects here."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "This is the presentations page, I would show this page to people once the project is finished."
+  },
+  {
+    "objectID": "extrapage.html",
+    "href": "extrapage.html",
+    "title": "ExtraPage",
+    "section": "",
+    "text": "This is an extra page for the lab, there’s not much here."
   }
 ]
